@@ -14,7 +14,7 @@ with open(sys.argv[1]) as file:
         querystring = {"func":"auto","term":"{}".format(s)}
 
         headers = {
-            'x-rapidapi-key': "70478949d4mshece2c49bd2a3429p144b01jsn6606b927935e",
+            'x-rapidapi-key': "<INSERT_API_KEY>",
             'x-rapidapi-host': "breachdirectory.p.rapidapi.com"
             }
 
