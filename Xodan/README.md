@@ -12,5 +12,6 @@ $ chmod +x xodan.sh
 ```
 ## Usage
 ```bash
-./xodan.sh <RANGE_IPs_LIST>
+./xodan.sh
+  Options (-r - Range IP | -i - IP  |-fr - File Range IP | -fi - File IP)
 ```
